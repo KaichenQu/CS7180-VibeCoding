@@ -1,4 +1,4 @@
-### Mom Test Reflection (≈500 words)
+### Mom Test Reflection
 
 Conducting three Mom Test–style interviews fundamentally reshaped how I think about this project. Initially, I believed the problem was that students and early-career professionals lacked “better budgeting tools.” However, applying Mom Test principles—focusing on past behavior, concrete examples, and listening more than pitching—revealed that the core issue was not tooling sophistication, but behavioral friction and lack of reflection.
 
